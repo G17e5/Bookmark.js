@@ -67,16 +67,3 @@ function deleteInput(pIndex)
     display();
     localStorage.setItem("ouerStorge",JSON.stringify(cartonaa));
 }
-
-function visitInput()
-{
-
-    display();
-    localStorage.setItem("ouerStorge",JSON.stringify(cartonaa));
-
-}
-
-
-
-
-
